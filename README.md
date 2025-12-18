@@ -19,6 +19,7 @@ por año, solo algunos paises poseían datos sólidos de 3 o más años, la mayo
 Se puede observar en el panel que solo 1 país mejoró de forma radical sus numeros de explotación infantil, siendo este méxico
 Paises como Malawi ha ido de mal en peor, aumentando cada año más el numero de explotación infantil
 Brasil logró bajar sus numeros de explotación infantil desde 2011 hasta 2015, con una recaída en el aumento en 2014, pero en 2015 lograron un numero menor a que en 2011
+
 ------------------------------------------------------------------------------------------------------------------------
 
 2- Fuente de datos utlizada:
